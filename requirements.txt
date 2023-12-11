@@ -1,7 +1,4 @@
 ipywidgets
 matplotlib
 numpy
-IPython.core.display
-IPython.display
-builtins
-voila
+voila>=0.1.8
