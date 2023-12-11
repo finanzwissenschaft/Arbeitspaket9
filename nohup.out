@@ -1,0 +1,55 @@
+[Voila] Using C:\Users\jwalter\AppData\Local\Temp to store connection files
+[Voila] Storing connection files in C:\Users\jwalter\AppData\Local\Temp\voila_xmuchv3y.
+[Voila] Serving static files from c:\users\jwalter\appdata\local\programs\python\python37\lib\site-packages\voila\static.
+[Voila] Voilà is running at:
+http://localhost:8866/
+[Voila] Kernel started: 5e692e22-bcd4-4d38-bb56-0c95a1e96d4d
+403 GET /voila/files/favicon.ico (127.0.0.1): File not whitelisted
+403 GET /voila/files/favicon.ico (127.0.0.1) 10.10ms
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: f23198f9-ebd5-4da9-a3a9-b181ee5cf466
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
+[Voila] Using C:\Users\jwalter\AppData\Local\Temp to store connection files
+[Voila] Storing connection files in C:\Users\jwalter\AppData\Local\Temp\voila_v1s9x3l8.
+[Voila] Serving static files from c:\users\jwalter\appdata\local\programs\python\python37\lib\site-packages\voila\static.
+[Voila] Voilà is running at:
+http://localhost:8866/
+[Voila] Kernel started: 7fe06d19-4e1d-4e50-87ad-e6867ed43b74
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 7944bfbb-c035-44cb-8b05-212d8b85c3c4
+c:\users\jwalter\appdata\local\programs\python\python37\lib\site-packages\jupyter_server\base\handlers.py:198: UserWarning: The Tornado web application does not have an 'authorizer' defined in its settings. In future releases of jupyter_server, this will be a required key for all subclasses of `JupyterHandler`. For an example, see the jupyter_server source code for how to add an authorizer to the tornado settings: https://github.com/jupyter-server/jupyter_server/blob/653740cbad7ce0c8a8752ce83e4d3c2c754b13cb/jupyter_server/serverapp.py#L234-L256
+  "The Tornado web application does not have an 'authorizer' defined "
+404 GET /api/kernels/5e692e22-bcd4-4d38-bb56-0c95a1e96d4d?1670787183277 (127.0.0.1): Kernel does not exist: 5e692e22-bcd4-4d38-bb56-0c95a1e96d4d
+[Voila] WARNING | wrote error: 'Kernel does not exist: 5e692e22-bcd4-4d38-bb56-0c95a1e96d4d'
+404 GET /api/kernels/5e692e22-bcd4-4d38-bb56-0c95a1e96d4d?1670787183277 (127.0.0.1) 3.99ms
+404 GET /api/kernels/5e692e22-bcd4-4d38-bb56-0c95a1e96d4d/channels?session_id=adf7a6e1-b9ab-4e3e-99ca-efacef4b7408 (127.0.0.1): Kernel does not exist: 5e692e22-bcd4-4d38-bb56-0c95a1e96d4d
+404 GET /api/kernels/5e692e22-bcd4-4d38-bb56-0c95a1e96d4d/channels?session_id=adf7a6e1-b9ab-4e3e-99ca-efacef4b7408 (127.0.0.1) 23.04ms
+404 GET /api/kernels/5e692e22-bcd4-4d38-bb56-0c95a1e96d4d?1670787184322 (127.0.0.1): Kernel does not exist: 5e692e22-bcd4-4d38-bb56-0c95a1e96d4d
+[Voila] WARNING | wrote error: 'Kernel does not exist: 5e692e22-bcd4-4d38-bb56-0c95a1e96d4d'
+404 GET /api/kernels/5e692e22-bcd4-4d38-bb56-0c95a1e96d4d?1670787184322 (127.0.0.1) 4.98ms
+404 GET /api/kernels/5e692e22-bcd4-4d38-bb56-0c95a1e96d4d/channels?session_id=adf7a6e1-b9ab-4e3e-99ca-efacef4b7408 (127.0.0.1): Kernel does not exist: 5e692e22-bcd4-4d38-bb56-0c95a1e96d4d
+404 GET /api/kernels/5e692e22-bcd4-4d38-bb56-0c95a1e96d4d/channels?session_id=adf7a6e1-b9ab-4e3e-99ca-efacef4b7408 (127.0.0.1) 7.98ms
+404 GET /api/kernels/5e692e22-bcd4-4d38-bb56-0c95a1e96d4d?1670787185362 (127.0.0.1): Kernel does not exist: 5e692e22-bcd4-4d38-bb56-0c95a1e96d4d
+[Voila] WARNING | wrote error: 'Kernel does not exist: 5e692e22-bcd4-4d38-bb56-0c95a1e96d4d'
+404 GET /api/kernels/5e692e22-bcd4-4d38-bb56-0c95a1e96d4d?1670787185362 (127.0.0.1) 2.19ms
+404 GET /api/kernels/5e692e22-bcd4-4d38-bb56-0c95a1e96d4d/channels?session_id=adf7a6e1-b9ab-4e3e-99ca-efacef4b7408 (127.0.0.1): Kernel does not exist: 5e692e22-bcd4-4d38-bb56-0c95a1e96d4d
+404 GET /api/kernels/5e692e22-bcd4-4d38-bb56-0c95a1e96d4d/channels?session_id=adf7a6e1-b9ab-4e3e-99ca-efacef4b7408 (127.0.0.1) 11.99ms
+404 GET /api/kernels/5e692e22-bcd4-4d38-bb56-0c95a1e96d4d?1670787191228 (127.0.0.1): Kernel does not exist: 5e692e22-bcd4-4d38-bb56-0c95a1e96d4d
+[Voila] WARNING | wrote error: 'Kernel does not exist: 5e692e22-bcd4-4d38-bb56-0c95a1e96d4d'
+404 GET /api/kernels/5e692e22-bcd4-4d38-bb56-0c95a1e96d4d?1670787191228 (127.0.0.1) 6.29ms
+404 GET /api/kernels/5e692e22-bcd4-4d38-bb56-0c95a1e96d4d/channels?session_id=adf7a6e1-b9ab-4e3e-99ca-efacef4b7408 (127.0.0.1): Kernel does not exist: 5e692e22-bcd4-4d38-bb56-0c95a1e96d4d
+404 GET /api/kernels/5e692e22-bcd4-4d38-bb56-0c95a1e96d4d/channels?session_id=adf7a6e1-b9ab-4e3e-99ca-efacef4b7408 (127.0.0.1) 11.98ms
+404 GET /api/kernels/5e692e22-bcd4-4d38-bb56-0c95a1e96d4d?1670787201526 (127.0.0.1): Kernel does not exist: 5e692e22-bcd4-4d38-bb56-0c95a1e96d4d
+[Voila] WARNING | wrote error: 'Kernel does not exist: 5e692e22-bcd4-4d38-bb56-0c95a1e96d4d'
+404 GET /api/kernels/5e692e22-bcd4-4d38-bb56-0c95a1e96d4d?1670787201526 (127.0.0.1) 4.24ms
+404 GET /api/kernels/5e692e22-bcd4-4d38-bb56-0c95a1e96d4d/channels?session_id=adf7a6e1-b9ab-4e3e-99ca-efacef4b7408 (127.0.0.1): Kernel does not exist: 5e692e22-bcd4-4d38-bb56-0c95a1e96d4d
+404 GET /api/kernels/5e692e22-bcd4-4d38-bb56-0c95a1e96d4d/channels?session_id=adf7a6e1-b9ab-4e3e-99ca-efacef4b7408 (127.0.0.1) 3.77ms
+404 GET /api/kernels/5e692e22-bcd4-4d38-bb56-0c95a1e96d4d?1670787207734 (127.0.0.1): Kernel does not exist: 5e692e22-bcd4-4d38-bb56-0c95a1e96d4d
+[Voila] WARNING | wrote error: 'Kernel does not exist: 5e692e22-bcd4-4d38-bb56-0c95a1e96d4d'
+404 GET /api/kernels/5e692e22-bcd4-4d38-bb56-0c95a1e96d4d?1670787207734 (127.0.0.1) 2.37ms
+404 GET /api/kernels/5e692e22-bcd4-4d38-bb56-0c95a1e96d4d/channels?session_id=adf7a6e1-b9ab-4e3e-99ca-efacef4b7408 (127.0.0.1): Kernel does not exist: 5e692e22-bcd4-4d38-bb56-0c95a1e96d4d
+404 GET /api/kernels/5e692e22-bcd4-4d38-bb56-0c95a1e96d4d/channels?session_id=adf7a6e1-b9ab-4e3e-99ca-efacef4b7408 (127.0.0.1) 16.76ms
+404 GET /api/kernels/5e692e22-bcd4-4d38-bb56-0c95a1e96d4d?1670787260177 (127.0.0.1): Kernel does not exist: 5e692e22-bcd4-4d38-bb56-0c95a1e96d4d
+[Voila] WARNING | wrote error: 'Kernel does not exist: 5e692e22-bcd4-4d38-bb56-0c95a1e96d4d'
+404 GET /api/kernels/5e692e22-bcd4-4d38-bb56-0c95a1e96d4d?1670787260177 (127.0.0.1) 0.00ms
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.

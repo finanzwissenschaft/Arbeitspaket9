@@ -1,0 +1,7 @@
+ipywidgets
+matplotlib
+numpy
+IPython.core.display
+IPython.display
+builtins
+voila

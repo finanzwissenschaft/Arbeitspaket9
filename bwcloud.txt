@@ -1,0 +1,21 @@
+# order kopieren
+scp -i ~/.ssh/bwcloud.pem -r /path/tp/folder ubuntu@193.197.231.72:
+
+# mit ssh verbinden
+ssh -i ~/.ssh/bwcloud.pem ubuntu@193.197.231.72
+
+cd folder
+
+# pip installieren
+sudo apt update
+sudo apt install python3-pip
+
+# reqs installieren
+pip3 install -r requirements.txt
+
+# server starten
+voila index.ipynb --Voila.ip='0.0.0.0'
+
+
+#verlassen
+exit
